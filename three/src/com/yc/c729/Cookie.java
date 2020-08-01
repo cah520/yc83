@@ -36,6 +36,7 @@ public class Cookie {
 	}
 
 	public int getMaxAge() {
+		System.out.println("====");
 		return maxAge;
 	}
 	
